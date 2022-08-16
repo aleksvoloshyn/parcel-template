@@ -2,7 +2,7 @@
   "name": "parcel-template",
   "version": "1.0.0",
   "description": "parcel template",
-  "main": "main.js",
+  "main": "js/main.js",
   "homepage": "https://aleksvoloshyn/parcel-template.git",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
